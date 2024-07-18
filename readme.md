@@ -21,7 +21,7 @@ The Logo Detection project is a computer vision application that detects and tra
 
 1.⁠ ⁠Clone the repository:
     ⁠ sh
-    git clone https://github.com/your-username/logo-detection.git
+    git clone https://github.com/YashrajKupekar17/Logo_Detection
      ⁠
 
 2.⁠ ⁠Create a virtual environment:
@@ -48,7 +48,7 @@ The Logo Detection project is a computer vision application that detects and tra
      ⁠
 
 5.⁠ ⁠Download the pre-trained model:
-    - Visit the [Ultralytics YOLOv8 Releases page](https://github.com/ultralytics/yolov8/releases) and download the pre-trained model file (e.g., ⁠ yolov8n.pt ⁠).
+    - Visit the [Ultralytics YOLOv8 Releases page] and download the pre-trained model file (e.g., ⁠ yolov8n.pt ⁠).
     - Place the downloaded model file in the ⁠ models ⁠ directory within the project.
 
 ### Usage
@@ -70,7 +70,7 @@ The Logo Detection project is a computer vision application that detects and tra
 
 ## Approach
 
-The development of this project followed an industry-driven approach, which is detailed in the ⁠ APPROACH.md ⁠ file. This document outlines the methodology, challenges, solutions, and potential advancements of the project.
+The development of this project followed an industry-driven approach, which is detailed in the ⁠ [APPROACH.md](https://docs.google.com/document/d/1rQSpuDij_gV7djsjGh-IrHSlKcMsahWtyzHEuYO2968/edit?usp=sharing) ⁠ file. This document outlines the methodology, challenges, solutions, and potential advancements of the project.
 
 ## Contributing
 
